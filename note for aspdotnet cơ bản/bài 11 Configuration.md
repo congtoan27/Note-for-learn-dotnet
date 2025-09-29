@@ -1,0 +1,2 @@
+Cách thô sơ nhất là truy cập trực tiếp IConfiguration (_configuragion) 
+hoặc dùng GetSection().Bind() hoặc GetSection().get<>, hoặc dùng IOption để lấy đối tượng sau khi Và hãy nhớ xem thêm về IOption interface.
