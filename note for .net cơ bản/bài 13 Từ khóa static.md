@@ -28,3 +28,5 @@ Singleton: Khi muốn truy cập một biến static bắt buộc phải qua l�
 
 Và khi không có dòng lock (_lock){} thì sẽ có lẽ là không đúng khi có nhiều thread đồng thời kết nối vì  thread đầu chạy tới kiểm tra null chưa kịp tạo instance thì thread thứ hai đã chạy thì cái việc tạo instance sẽ diễn ra 2 lần, vậy thì chúng ta chỉ sử dụng dc cái instance cuối cùng của thread cuối cùng.  
 Giải thích khi khai báo object lock và từ khóa lock(_lock) khi viết như vậy thì chỉ có duy nhất một thread được chạy vào vùng code lock này thôi thread tiếp theo sẽ chờ thread trước thoát ra vùng lock
+
+
