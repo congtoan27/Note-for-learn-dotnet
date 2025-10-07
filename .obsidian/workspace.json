@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note for .net cơ bản/bài 6 Exception trong .net.md",
+                "file": "note for .net cơ bản/bài 12 Đa hình trong .net.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bài 6 Exception trong .net"
+              "title": "bài 12 Đa hình trong .net"
             }
           }
         ]
@@ -188,15 +188,17 @@
   },
   "active": "2e920567d23ba7ba",
   "lastOpenFiles": [
-    "note for .net cơ bản/bài 5 phương thức.md",
-    "note for .net cơ bản/bài 6 Exception trong .net.md",
+    "Pasted image 20251008000434.png",
+    "note for .net cơ bản/Bài 9 Biểu thức Lambda trong .net.md",
     "note for .net cơ bản/Bài 8 Collection trong .net.md",
+    "note for .net cơ bản/bài 7 Stream trong .net.md",
+    "note for .net cơ bản/bài 6 Exception trong .net.md",
+    "note for .net cơ bản/bài 5 phương thức.md",
     "note for .net cơ bản/baì 10  LINQ trong .NET.md",
     "note for .net cơ bản/Bài 17 CRUD ADO.NET.md",
     "note for .net cơ bản/Bài 14 Interface.md",
     "note for .net cơ bản/bài 13 Từ khóa static.md",
     "note for .net cơ bản/bài 12 Đa hình trong .net.md",
-    "note for .net cơ bản/bài 7 Stream trong .net.md",
     "ZImage/Pasted image 20250929220905.png",
     "ZImage/Pasted image 20250929214155.png",
     "ZImage/Pasted image 20250122201221.png",
@@ -216,8 +218,6 @@
     "note for .net cơ bản/bài 24 logging.md",
     "note for .net cơ bản/bài 22 Chỉ dẫn tiền biên dịch.md",
     "note for .net cơ bản/bài 20 repository pattern.md",
-    "note for .net cơ bản/bài 11 hướng đối tượng.md",
-    "note for .net cơ bản/Bài 9 Biểu thức Lambda trong .net.md",
     "ZImage/Pasted image 20250929220842.png",
     "ZImage/Pasted image 20250929220836.png",
     "ZImage/Pasted image 20250929220823.png",
