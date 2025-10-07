@@ -30,3 +30,5 @@ Và khi không có dòng lock (_lock){} thì sẽ có lẽ là không đúng khi
 Giải thích khi khai báo object lock và từ khóa lock(_lock) khi viết như vậy thì chỉ có duy nhất một thread được chạy vào vùng code lock này thôi thread tiếp theo sẽ chờ thread trước thoát ra vùng lock
 
 
+
+biến static gắn liền với kiểu chứa nó, và mỗi một kiểu dữ liệu chỉ được load 1 lần , ví dụ như tạo 1 đối tượng hay khai báo 1 biến x nào đó thuộc kiểu C thì kiểu C đó sẽ được nạp vào bộ nhớ và nó sẽ ở cố định 1 địa chỉ cho đến khi kết thúc chương trình và biến x cũng thế(chỉ được nạp 1 lần tức chỉ tồn tại  1 lần nên truy cập biến x ở chỗ nào thì cũng chỉ truy cập vào đúng biến x đó). ví dụ áp dụng là tính số người truy cập ứng dụng là tạo 1 biến static ,cứ 1 request tới thì biến static đó tăng lên 1
