@@ -11,3 +11,4 @@ Chi nhớ:
 - Dùng SqlCommand.ExecuteScalar() để thực hiện một câu lệnh SQL với duy nhất một kết quả trả về, ví dụ COUNT, SUM... nếu câu lệnh SQL trả về nhiều hơn một dòng hoặc một cột thì ExecuteScalar sẽ trả về giá trị đầu tiên nhất (cột 1, dòng 1).
 
 Quan trọng: Luôn dùng using khi cần để đảm bảo tài nguyên luôn được giải phóng một cách đúng đắn.
+
