@@ -1,13 +1,16 @@
 Interface cũng tương tự bên java , bổ sung thêm là có thể thêm các thuộc tính trong lớp interface.
 Có thể định nghĩa được thêm các static constructor và các static method.
 
+
+
+Khi một lớp  implement 1 interface thì phải implement các phương thức và thuộc tính của interface đó, và static method cũng vậy( khi viết static method cho interface thì những lớp implement sẽ mặc nhiên thừa hưởng cái nội dung method đó)
 Có thể viết extendsion method cho interface 
 và cái extension method này có thể áp dụng cho các interface con của IReadable.
 
 
 Có thể tạo ra interface và cho phép chúng kế thừa lẫn nhau và khi một lớp implement một interface đã kế thừa từ interface khác thì nó sẽ phải implement tất cả thông tin từ cả hai interface đó.
 
-
+khi viết extension method cho một interface thì ta đã nhận vào một IReadable rồi thì con (interafce kế thừa IReadable) của IReadable vẫn có thể gọi ex method đó
 
 
 Khi viết DatabaseReadable kế thừa từ IReadable thì chúng ta sẽ không khai báo một biến DatabaseReadable là một IDoubleReadable được dù IDoubleReadable đã kế thừa từ IReadable , và nếu muốn được thì chúng ta sẽ sửa lại như ảnh 1 .
