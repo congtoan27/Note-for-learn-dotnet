@@ -13,5 +13,5 @@
    Dùng từ khóa override khi bạn muốn nạp chồng một phương thức, nếu thiếu từ khóa này,
    method của bạn sẽ là một method mới và không được tự động gọi nếu bạn gọi thông qua một biến thuộc lớp cha.
    Dùng từ khóa sealed nếu không muốn các lớp con override.
-![[Pasted image 20251008000434.png]]
-ví dụ như lớp cha có phương thức A và lớp con kế thừa lớp cha và lớp con lai viết thêm phương thức A và phương thức A ở lớp cha không có virtual và phương thức A ở lớp con cũng không có overridden thì phương thức A của lớp con sẽ chỉ hoạt động khi tạo một object có kieur của lớp con (chú ý là kiểu ,đừng hiểu nhầm là tạo ra đối tượng lớp con ,Bird b1= new ....) và như ảnh trên là cách dùng new để nói rằng mình cố tình viết phương thức cùng tên phương thức ở lớp cha để có không warning 
+   ![[Pasted image 20251008000434.png]]
+   ví dụ như lớp cha có phương thức A và lớp con kế thừa lớp cha và lớp con lai viết thêm phương thức A và phương thức A ở lớp cha không có virtual và phương thức A ở lớp con cũng không có overridden thì phương thức A của lớp con sẽ chỉ hoạt động khi tạo một object có kieur của lớp con (chú ý là kiểu ,đừng hiểu nhầm là tạo ra đối tượng lớp con ,Bird b1= new ....) và như ảnh trên là cách dùng new để nói rằng mình cố tình viết phương thức cùng tên phương thức ở lớp cha để có không warning
