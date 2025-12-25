@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note for .net cơ bản/Bài 16.md",
+                "file": "note for .net cơ bản/Bài 16 unit test và abstract factory,decorator pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bài 16"
+              "title": "Bài 16 unit test và abstract factory,decorator pattern"
             }
           }
         ],
@@ -207,13 +207,22 @@
   },
   "active": "75280bba5e121b71",
   "lastOpenFiles": [
+    "Pasted image 20251226011317.png",
+    "note for aspdotnet cơ bản/bài 16 https redirect.md",
+    "note for .net cơ bản/bài 33 monitor ,lock kiểm soát critical section.md",
+    "note for .net cơ bản/bài 31 eventwaithandle.md",
+    "note for .net cơ bản/bài 30 làm quen với thread.md",
+    "note for .net cơ bản/bài 27 dependency injection.md",
+    "note for .net cơ bản/bài 26 Configuration.md",
+    "note for .net cơ bản/bài 24 logging.md",
+    "note for .net cơ bản/bài 22 Chỉ dẫn tiền biên dịch.md",
+    "note for .net cơ bản/bài 20 repository pattern.md",
+    "note for .net cơ bản/Bài 16 unit test và abstract factory,decorator pattern.md",
     "note for .net cơ bản/Bài 19 xuất db ra file.md",
-    "note for .net cơ bản/Bài 16.md",
     "note for .net cơ bản/Bài 17 CRUD ADO.NET.md",
     "note for .net cơ bản/bài 13 Từ khóa static.md",
     "note for .net cơ bản/Bài 14 Interface.md",
     "note for .net cơ bản/bài 12 Đa hình trong .net.md",
-    "note for .net cơ bản/bài 20 repository pattern.md",
     "note for .net cơ bản/bài 11 hướng đối tượng.md",
     "note for .net cơ bản/baì 10  LINQ trong .NET.md",
     "note for .net cơ bản/Bài  2 Common type.md",
@@ -224,9 +233,7 @@
     "note for .net cơ bản/bài 6 Exception trong .net.md",
     "note for .net cơ bản/bài 5 phương thức.md",
     "Pasted image 20240924234655.png",
-    "note for .net cơ bản/bài 33 monitor ,lock kiểm soát critical section.md",
     "note for .net cơ bản/bài 35 Task.md",
-    "note for .net cơ bản/bài 34 async, bất đồng bộ.md",
     "Pasted image 20251008010907.png",
     "Pasted image 20251008004017.png",
     "Pasted image 20251008000434.png",
@@ -234,13 +241,6 @@
     "Pasted image 20250929214155.png",
     "Pasted image 20250122201221.png",
     "Pasted image 20250120205642.png",
-    "note for aspdotnet cơ bản/bài 7 http response.md",
-    "note for aspdotnet cơ bản/bài 4 routing.md",
-    "note for aspdotnet cơ bản/bài 2.md",
-    "note for aspdotnet cơ bản/bài 1 aspdotnet.md",
-    "note for .net cơ bản/bài 37 38 39 40 lập trình webserver.md",
-    "note for .net cơ bản/bài 36 lập trình socket.md",
-    "note for .net cơ bản/bài 31 eventwaithandle.md",
     "Pasted image 20250929220842.png",
     "Pasted image 20250929220836.png",
     "Untitled.base",
