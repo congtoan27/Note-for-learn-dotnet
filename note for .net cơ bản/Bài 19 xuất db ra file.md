@@ -3,6 +3,8 @@
 ![[Pasted image 20251226235628.png]]
 ![[Pasted image 20251226235644.png]]
 ![[Pasted image 20251227000821.png]]
+![[Pasted image 20251227003144.png]]
+ảnh trên là thay vì gọi là db thì gọi là exportsource để nói chung chung á, và thiết kế này thì để có thể mở rộng trong tương lai.
 abstract factory pattern cũng là factory pattern nhưng tạo dựa trên một đối tượng nào đó
 
 
