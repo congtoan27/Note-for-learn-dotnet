@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note for .net cơ bản/Bài 19 xuất db ra file.md",
+                "file": "note for .net cơ bản/bài 25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bài 19 xuất db ra file"
+              "title": "bài 25"
             }
           }
         ],
@@ -207,6 +207,14 @@
   },
   "active": "75280bba5e121b71",
   "lastOpenFiles": [
+    "note for .net cơ bản/bài 23 .net generic host.md",
+    "note for .net cơ bản/bài 25.md",
+    "bài 23.md",
+    "note for .net cơ bản/Bài  2 Common type.md",
+    "bài 23 .net generic host.md",
+    "note for .net cơ bản/bài 22 Chỉ dẫn tiền biên dịch.md",
+    "note for .net cơ bản/bài 20 repository pattern.md",
+    "note for .net cơ bản/Bài 19 xuất db ra file.md",
     "Pasted image 20251227003144.png",
     "Pasted image 20251227003026.png",
     "Pasted image 20251227002822.png",
@@ -225,24 +233,16 @@
     "note for .net cơ bản/bài 27 dependency injection.md",
     "note for .net cơ bản/bài 26 Configuration.md",
     "note for .net cơ bản/bài 24 logging.md",
-    "note for .net cơ bản/bài 22 Chỉ dẫn tiền biên dịch.md",
-    "note for .net cơ bản/bài 20 repository pattern.md",
-    "note for .net cơ bản/Bài 19 xuất db ra file.md",
     "note for .net cơ bản/Bài 17 CRUD ADO.NET.md",
     "note for .net cơ bản/bài 13 Từ khóa static.md",
     "note for .net cơ bản/Bài 14 Interface.md",
     "note for .net cơ bản/bài 12 Đa hình trong .net.md",
     "note for .net cơ bản/bài 11 hướng đối tượng.md",
     "note for .net cơ bản/baì 10  LINQ trong .NET.md",
-    "note for .net cơ bản/Bài  2 Common type.md",
     "Untitled Kanban 1.md",
     "note for .net cơ bản/Bài 9 Biểu thức Lambda trong .net.md",
     "note for .net cơ bản/Bài 8 Collection trong .net.md",
     "note for .net cơ bản/bài 7 Stream trong .net.md",
-    "note for .net cơ bản/bài 6 Exception trong .net.md",
-    "note for .net cơ bản/bài 5 phương thức.md",
-    "Pasted image 20240924234655.png",
-    "note for .net cơ bản/bài 35 Task.md",
     "Untitled.base",
     "Japan note",
     "ZImage",
