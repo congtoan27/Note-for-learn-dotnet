@@ -11,3 +11,7 @@ Có thể tạo filter cho logger bằng hàm addFilter( như trong ảnh là ch
 
 ![[Pasted image 20250122202112.png]]
 Khi thêm filter là trace thì nó sẽ cũng in ra trace mặc dù cấp đọ min là debug thôi , là vì trong filter nó sẽ override lại cả cái setMinLevel().
+
+mặc nhiên debug và trace sẽ bị tắt.
+
+tổng quát là tạo logfactory rồi tạo các log sao đó dùng log.
