@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note for .net cơ bản/bài 26 Configuration.md",
+                "file": "note for .net cơ bản/bài 37 38 39 40 lập trình webserver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bài 26 Configuration"
+              "title": "bài 37 38 39 40 lập trình webserver"
             }
           }
         ],
@@ -207,6 +207,13 @@
   },
   "active": "75280bba5e121b71",
   "lastOpenFiles": [
+    "note for .net cơ bản/bài 34 async, bất đồng bộ.md",
+    "note for .net cơ bản/bài 35 Task.md",
+    "note for .net cơ bản/bài 33 monitor ,lock kiểm soát critical section.md",
+    "note for .net cơ bản/bài 31 eventwaithandle.md",
+    "note for .net cơ bản/bài 30 làm quen với thread.md",
+    "note for .net cơ bản/bài 27 dependency injection.md",
+    "note for .net cơ bản/bài 26 Configuration.md",
     "note for .net cơ bản/bài 25 atttribute.md",
     "Pasted image 20251230234607.png",
     "Pasted image 20251230231736.png",
@@ -228,11 +235,6 @@
     "Pasted image 20251226235613.png",
     "note for .net cơ bản/Bài 16 unit test và abstract factory,decorator pattern.md",
     "note for aspdotnet cơ bản/bài 16 https redirect.md",
-    "note for .net cơ bản/bài 33 monitor ,lock kiểm soát critical section.md",
-    "note for .net cơ bản/bài 31 eventwaithandle.md",
-    "note for .net cơ bản/bài 30 làm quen với thread.md",
-    "note for .net cơ bản/bài 27 dependency injection.md",
-    "note for .net cơ bản/bài 26 Configuration.md",
     "note for .net cơ bản/Bài 17 CRUD ADO.NET.md",
     "note for .net cơ bản/bài 13 Từ khóa static.md",
     "note for .net cơ bản/Bài 14 Interface.md",
@@ -241,7 +243,6 @@
     "note for .net cơ bản/baì 10  LINQ trong .NET.md",
     "Untitled Kanban 1.md",
     "note for .net cơ bản/Bài 9 Biểu thức Lambda trong .net.md",
-    "note for .net cơ bản/Bài 8 Collection trong .net.md",
     "Untitled.base",
     "Japan note",
     "ZImage",
