@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note for .net cơ bản/bài 25 atttribute.md",
+                "file": "note for .net cơ bản/bài 26 Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bài 25 atttribute"
+              "title": "bài 26 Configuration"
             }
           }
         ],
@@ -207,10 +207,11 @@
   },
   "active": "75280bba5e121b71",
   "lastOpenFiles": [
+    "note for .net cơ bản/bài 25 atttribute.md",
+    "Pasted image 20251230234607.png",
     "Pasted image 20251230231736.png",
     "Pasted image 20251230224701.png",
     "note for .net cơ bản/bài 24 logging.md",
-    "note for .net cơ bản/bài 25 atttribute.md",
     "note for .net cơ bản/bài 23 .net generic host.md",
     "bài 23.md",
     "note for .net cơ bản/Bài  2 Common type.md",
@@ -225,9 +226,7 @@
     "Pasted image 20251226235644.png",
     "Pasted image 20251226235628.png",
     "Pasted image 20251226235613.png",
-    "Pasted image 20251226235429.png",
     "note for .net cơ bản/Bài 16 unit test và abstract factory,decorator pattern.md",
-    "Pasted image 20251226021406.png",
     "note for aspdotnet cơ bản/bài 16 https redirect.md",
     "note for .net cơ bản/bài 33 monitor ,lock kiểm soát critical section.md",
     "note for .net cơ bản/bài 31 eventwaithandle.md",
