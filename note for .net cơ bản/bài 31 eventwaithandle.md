@@ -4,3 +4,7 @@ Cái lớp eventwaithandle này như người cầm cây cờ , khi dơ cờ có
 ![[Pasted image 20250219004806.png]]
 
 Set như là dơ cây cờ lên báo hiệu có dữ liệu. Ở đây đã khai báo chế độ auto reset nên ko cần code lệnh reset sau waitOne(), và giá trị true nghĩa là có dữ liệu ban đầu, và đoạn code trên sẽ lỗi vì Queue không có dữ liệu ban đầu mà mình set true nên nó chạy qua waitone nên lỗi.
+
+
+bổ sung
+2 thread có thể giao tiếp với nhau qua eventwaithandle. eventwaithandle true là set false là reset.
